@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jester Mark Oton</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 
-- 🔭 I’m currently working on **asdas**
-
-- 🌱 I’m currently learning **asdas**
-
-- 👯 I’m looking to collaborate on **asdasd**
-
-- 🤝 I’m looking for help with **asdasd**
-
-- 💬 Ask me about **asdas**
-
 - 📫 How to reach me **otonjestermark24@gmail.com**
 
 - ⚡ Fun fact **I am passionate and easy to communicate**
